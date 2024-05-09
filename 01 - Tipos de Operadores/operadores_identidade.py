@@ -1,6 +1,6 @@
 '''
 
-é aquele que usamos para saber se algum valor é certo objeto
+Usamos para saber quando uma variavel aponta para determinado objeto
 
 '''
 
